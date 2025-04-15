@@ -18,6 +18,6 @@ au cour de cette journée j'ai utilisé plusieurs commandes git à savoir:
 - git add.: ajouter tous les fichiers présent dans mon dossier local.
 - git commit -m "first commit": stocke les fichiers ajoutés et les messages proprement dit.
 - git branch -M main: crée une nouvelle branche qui est une nouvelle version du référentiel et déplace le nom à main.
-- git remote add origin https://github.com/segunajibola/sample-code.git: connecte le dossier local au référentiel sur GitHub.
+- git remote add origin https://github.com/nom utilisateurgithub/lien de la branche: connecte le dossier local au référentiel sur GitHub.
 -  git push -u origin main: pousse le code vers GitHub.
   
